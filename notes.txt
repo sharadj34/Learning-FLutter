@@ -1,0 +1,26 @@
+What is Flutter?
+-> A tool that allows you to build native cross-platform (Android, iOS, Web, Desktop) application using one programming language and codebase.
+
+
+What is native?
+-> An application developed exclusively for a single platform using a native-to-the-operating-system language is a native app. e.g. Android Studio, XCode etc.
+
+
+What is Hybrid?
+-> A blend solution that consists of both native and web solutions. Developers embed the code written with web development languages (HTML, CSS amd JS) into a native app using Apache Cordova or Iconic's Capacitor. e.g. VS Code, Ionic etc.
+
+
+What is cross-platform?
+-> A cross-platform computer product or system is a product or system that can work across multiple types of platform or operating environments. Cross-platform is also known as multiplatform or platform independent. e.g. Flutter, React Native etc.
+"WRITE CODE ONCE AND REUSE FOR DIFFERENT PLATFORMS"
+
+
+Benefits of FLutter?
+- Increased Time-to-Market Speed
+- Reduced code development Time
+- The potential ability to go beyond mobile
+- Same UI and Business logic in all platforms
+- Custom, animated UI of any complexity available
+- Similar to Native app performance
+- Own Rendering Engine
+- Simple platform specific logic implementation
