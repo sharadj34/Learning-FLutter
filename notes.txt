@@ -29,3 +29,6 @@ Benefits of FLutter?
 Flutter Architecture?
 -> Whenever we build a flutter application, we kind of build a widget tree because it's all about widgets.
 -> Platform Differences
+
+
+Starting Flutter
