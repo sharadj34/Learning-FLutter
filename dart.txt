@@ -1,0 +1,6 @@
+-> Dart language is focused on frontend (mobile, web apps) user interface (UI) development.
+
+-> Dart was developed by Google in 2011. It is an object oriented and strongly typed language. 
+
+-> It is a mixture of JavaScript, Java and C#.
+
